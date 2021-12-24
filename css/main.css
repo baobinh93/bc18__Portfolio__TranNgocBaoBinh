@@ -178,6 +178,7 @@ header .active.nav-item::after {
 .project .active.nav-link {
   background-color: var(--logo-green);
   color: var(--text-white);
+  border-color: var(--logo-green) !important;
 }
 .project .card {
   box-shadow: 0 0 0.4rem rgb(0 0 0 / 13%);
