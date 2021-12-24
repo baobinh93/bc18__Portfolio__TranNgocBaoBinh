@@ -160,7 +160,7 @@ header .active.nav-item::after {
 .project > .container > p {
   color: var(--text-black-thin);
   line-height: 24px;
-  width: 750px;
+  max-width: 750px;
 }
 
 .project__content--btn-list label {
@@ -240,7 +240,7 @@ header .active.nav-item::after {
 .feature > .container > p {
   color: var(--text-white);
   line-height: 24px;
-  width: 750px;
+  max-width: 750px;
 }
 .feature__content {
 }
